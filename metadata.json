@@ -1,0 +1,5 @@
+{
+  "name": "Team Reimbursement Tracker",
+  "description": "An application to track and calculate the cumulative reimbursement amounts for team members. Users can input amounts for each member, and the application will automatically update and display the total.",
+  "requestFramePermissions": []
+}
